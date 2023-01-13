@@ -83,6 +83,7 @@ code {
   align-items: center;
   border-radius: 24px;
   margin: 0 10px;
+  visibility: hidden;
 }
 
 .header_serchinput{
